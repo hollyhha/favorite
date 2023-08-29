@@ -11,6 +11,8 @@ I love photography because:
 3. **Exploration and Adventure:** Photography motivates me to explore new places and seek out interesting subjects. It can lead to exciting adventures as I look for picturesque locations and hidden gems.
 4. **Memory Preservation:** Photographs serve as visual memories, allowing me to relive special moments and experiences for years to come.
 
+"The whole point of taking pictures is so that you don't have to explain things in words." - Elliott Erwitt
+
 ## Here are some of my favorite photos I've captured so far -
 
 ![flower](https://github.com/hollyhha/favorite/assets/142946140/02b65c98-d3f8-40f9-8132-2a79dcaef8af)
